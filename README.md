@@ -28,7 +28,7 @@
 
 ## ⭐ Core stack (strongest)
 
-<p align="left">
+<p align="left" style="white-space: nowrap;">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="48" height="48" />
   </a>
@@ -42,6 +42,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
   </a>
 </p>
+
 
 ---
 
