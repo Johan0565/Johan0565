@@ -148,10 +148,21 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="left">
+  <a href="http://www.github.com/Johan0565">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johan0565&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" />
+  </a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Johan0565&show_icons=true&count_private=true&theme=dark&hide_border=true)
+<p align="left">
+  <a href="http://www.github.com/Johan0565">
+    <img src="https://github-readme-stats.vercel.app/api?username=Johan0565&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub stats" />
+  </a>
+</p>
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Johan0565&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johan0565&langs_count=10&layout=compact&theme=dark&hide_border=true&custom_title=Top%20Languages)
+<p align="left">
+  <a href="https://github.com/Johan0565">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan0565&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top languages" />
+  </a>
+</p>
 
