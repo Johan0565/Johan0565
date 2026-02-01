@@ -24,8 +24,16 @@ src="https://img.shields.io/github/followers/Johan0565?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Johan0565"><img src="https://github-readme-stats.vercel.app/api?username=Johan0565&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=000000&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="Johan0565's GitHub stats" /></a>
+<p align="left">
+  <a href="https://github.com/Johan0565">
+    <img src="https://github-readme-stats.vercel.app/api?username=Johan0565&show_icons=true&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true" alt="Johan0565's GitHub stats" />
+  </a>
 
-<a href="http://www.github.com/Johan0565"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Johan0565&stroke=000000&background=7f1d1d&ring=84cc16&fire=84cc16&currStreakNum=000000&currStreakLabel=84cc16&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+  <a href="https://github.com/Johan0565">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johan0565&stroke=ffffff&background=7f1d1d&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 
-<a href="https://github.com/Johan0565" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan0565&langs_count=10&title_color=84cc16&text_color=000000&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/Johan0565">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan0565&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+  </a>
+</p>
