@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About me (Learn more on [Johan0565.github.io ](https://johan0565.github.io/))
 
 - 👤 I'm **18 years old**
 - 🎓 **2nd-year student** at *Moscow Polytechnic University*  
