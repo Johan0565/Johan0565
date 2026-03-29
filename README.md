@@ -15,7 +15,6 @@
 - 👤 I'm **18 years old**
 - 🎓 **2nd-year student** at *Moscow Polytechnic University*  
   *(Applied Informatics • Business App Development & Integration)*
-- 💡 I’ve been into programming since I was **13**
 - 🌍 Based in **Moscow**
 - ✉️ Contact: **[magomedxaxa_000@mail.ru](mailto:magomedxaxa_000@mail.ru)**
 - 🧠 Currently learning **Spring Framework**
