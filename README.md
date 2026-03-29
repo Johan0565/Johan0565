@@ -114,17 +114,6 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" />
   </a>
 </p>
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <a href="http://www.github.com/Johan0565">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johan0565&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" />
-  </a>
-</p>
-
-
-
 
 
 
