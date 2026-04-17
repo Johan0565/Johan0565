@@ -16,7 +16,7 @@
 - 🎓 **2nd-year student** at *Moscow Polytechnic University*  
   *(Applied Informatics • Business App Development & Integration)*
 - 🌍 Based in **Moscow**
-- ✉️ Contact: **[magomedxaxa_000@mail.ru](mailto:magomedxaxa_000@mail.ru)**
+- ✉️ Contact: **[magomedxaxa_000@mail.ru](mailto:magomed@magomedov.online)**
 - 🧠 Currently learning **Spring Framework**
 - 👥 Open to collaborate on:
   - **Open-source Java / Spring** projects  
