@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Magomed Magomedov</h1>
-<h3 align="center">Java Backend Developer • Student</h3>
+<h3 align="center">Java Backend Developer</h3>
 
 <p align="center">
   <a href="https://www.github.com/Johan0565" target="_blank" rel="noreferrer">
@@ -10,10 +10,10 @@
 
 ---
 
-## 👨‍💻 About me (Learn more on [Johan0565.github.io ](https://johan0565.github.io/))
+## 👨‍💻 About me (Learn more on [my site](https://www.magomedov.online))
 
 - 👤 I'm **18 years old**
-- 🎓 **2nd-year student** at *Moscow Polytechnic University*  
+- 🎓 *Moscow Polytechnic University*  
   *(Applied Informatics • Business App Development & Integration)*
 - 🌍 Based in **Moscow**
 - ✉️ Contact: **[magomed@magomedov.online](mailto:magomed@magomedov.online)**
