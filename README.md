@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About me (Learn more on [my site](https://www.magomedov.online))
+## 👨‍💻 About me (Learn more on [magomedov.online](https://www.magomedov.online))
 
 
 
